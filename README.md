@@ -9,7 +9,7 @@ de 'archivos duplicados'.
 *tamaño.
 *fecha de creación/modificación.
 *palabras similares en nombres.
-*..y por si las dudas comparación de bocados de memoria.
+*..y por si las dudas CRC.
   
   
 
